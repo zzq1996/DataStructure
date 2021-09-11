@@ -5,60 +5,28 @@
 #ifndef DATASTRUCTURE_SEQQUEUE_H
 #define DATASTRUCTURE_SEQQUEUE_H
 
-//循环队列
+#include <cstdio>
+
+using namespace std;
+
+//循环队列，用数组存储，定义rear和front表示队尾元素的下一个位置和队头元素在数组中的位置
 class SeqQueue {
 private:
-    int rear,front;//队尾/队头指针
-    int *element;//存放队列元素的数组
-    int maxSize;
+    char *pQue;    //指向申请的空间
+    int front;       // 队头
+    int rear;        //队尾
+    int maxSize;       //记录空间的大小
+
 public:
-    SeqQueue();//构造函数
+    //构造函数
+    SeqQueue(int Size);
     bool EnQueue(int x);//入队
     bool DeQueue(int &x);//出队
     bool IsEmpty();
     bool IsFull();
-    int getSize();
+    int GetSize();
+    void PrintMember(SeqQueue seqQueue);
 };
-
-//构造函数
-SeqQueue::SeqQueue() {
-    rear=front=0;
-    maxSize=10;
-    element =new int [maxSize];
-}
-
-//判队满
-bool SeqQueue::IsFull() {
-    return ((rear+1)%maxSize==front);
-}
-
-//判队空
-bool SeqQueue::IsEmpty() {
-    return (front==rear);
-}
-
-//返回队内元素个数
-int SeqQueue::getSize() {
-    return (rear-front+maxSize)%maxSize;
-}
-
-//出队
-bool SeqQueue::DeQueue(int &x) {
-    if(!IsEmpty()){//若队不为空
-        x=element[front];//返回队头元素
-        front=(front+1)%maxSize;//队头加1
-    }
-    return true;
-}
-
-//入队
-bool SeqQueue::EnQueue(int x) {
-    if(!IsFull()){//若队不满
-        element[rear]=x;//插入队尾
-        rear=(rear+1)%maxSize;//队尾加1
-    }
-    return true;
-}
 
 
 
