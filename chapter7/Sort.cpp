@@ -354,8 +354,7 @@ void HeadAdjust(int A[],int k,int len){
     A[k]=A[0]; //被筛选结点的值放入最终位置
 }
 
-/*建立大根堆
- * ————把所有非终端结点都检查一遍，是否满足大根堆的要求*/
+//建立大根堆————把所有非终端结点都检查一遍，是否满足大根堆的要求
 void BuildMaxHeap(int A[],int len){
     for (int i = len/2; i >0 ; --i) {
         HeadAdjust(A,i,len);

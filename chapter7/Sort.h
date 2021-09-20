@@ -25,6 +25,8 @@ public:
     void SelectSort(int A[],int n);//快速选择排序
     void HeapSort(int A[],int len);//堆排序
 
+    /*归并排序*/
+
 
 };
 
