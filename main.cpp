@@ -10,6 +10,7 @@ int main() {
 
 //    Sort sort;
     int A[8]={49,38,65,97,76,13,27,49};
+    int B[11]={7,10,13,16,19,29,32,33,37,41,43};
 //    sort.InsertSort(A,8);//直接插入排序
 //    cout<<"\n排序结果：";
 //    for (int i = 0; i < 8; ++i) {
@@ -24,7 +25,8 @@ int main() {
 //    }
 
     Search search;
-    cout<<"97元素位置："<<search.Search_Seq2(A,8,97);
+    int i=search.Binary_Search(B,11,3);
+    cout<<"元素3位置："<<i;
 
     return 0;
 }
