@@ -14,6 +14,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/zhang/CLionProjects/DataStructure/chapter3/LinkedStack.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.o"
   "/Users/zhang/CLionProjects/DataStructure/chapter3/SeqQuene.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.o"
   "/Users/zhang/CLionProjects/DataStructure/chapter3/SeqStack.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.o"
+  "/Users/zhang/CLionProjects/DataStructure/chapter7/Sort.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.o"
   "/Users/zhang/CLionProjects/DataStructure/main.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

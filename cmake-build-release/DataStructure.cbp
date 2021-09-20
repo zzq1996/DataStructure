@@ -119,6 +119,12 @@
 		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter5/BInaryTree.h">
 			<Option target="DataStructure"/>
 		</Unit>
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter7/Sort.cpp">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter7/Sort.h">
+			<Option target="DataStructure"/>
+		</Unit>
 		<Unit filename="/Users/zhang/CLionProjects/DataStructure/main.cpp">
 			<Option target="DataStructure"/>
 		</Unit>

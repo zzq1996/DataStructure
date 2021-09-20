@@ -30,9 +30,7 @@ void visit(BiTree pNode) {
     }else{
         T=new BinTreeNode ;
         T->data=item;
-
         CreateBiTree(T->leftChild);
-
         CreateBiTree(T->rightTree);
     }
 }

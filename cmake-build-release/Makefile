@@ -273,6 +273,30 @@ chapter3/SeqStack.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.s
 .PHONY : chapter3/SeqStack.cpp.s
 
+chapter7/Sort.o: chapter7/Sort.cpp.o
+.PHONY : chapter7/Sort.o
+
+# target to build an object file
+chapter7/Sort.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.o
+.PHONY : chapter7/Sort.cpp.o
+
+chapter7/Sort.i: chapter7/Sort.cpp.i
+.PHONY : chapter7/Sort.i
+
+# target to preprocess a source file
+chapter7/Sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.i
+.PHONY : chapter7/Sort.cpp.i
+
+chapter7/Sort.s: chapter7/Sort.cpp.s
+.PHONY : chapter7/Sort.s
+
+# target to generate assembly for a file
+chapter7/Sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.s
+.PHONY : chapter7/Sort.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -324,6 +348,9 @@ help:
 	@echo "... chapter3/SeqStack.o"
 	@echo "... chapter3/SeqStack.i"
 	@echo "... chapter3/SeqStack.s"
+	@echo "... chapter7/Sort.o"
+	@echo "... chapter7/Sort.i"
+	@echo "... chapter7/Sort.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
