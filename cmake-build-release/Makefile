@@ -297,6 +297,30 @@ chapter7/Sort.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.s
 .PHONY : chapter7/Sort.cpp.s
 
+chapter8/Search.o: chapter8/Search.cpp.o
+.PHONY : chapter8/Search.o
+
+# target to build an object file
+chapter8/Search.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter8/Search.cpp.o
+.PHONY : chapter8/Search.cpp.o
+
+chapter8/Search.i: chapter8/Search.cpp.i
+.PHONY : chapter8/Search.i
+
+# target to preprocess a source file
+chapter8/Search.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter8/Search.cpp.i
+.PHONY : chapter8/Search.cpp.i
+
+chapter8/Search.s: chapter8/Search.cpp.s
+.PHONY : chapter8/Search.s
+
+# target to generate assembly for a file
+chapter8/Search.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter8/Search.cpp.s
+.PHONY : chapter8/Search.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -351,6 +375,9 @@ help:
 	@echo "... chapter7/Sort.o"
 	@echo "... chapter7/Sort.i"
 	@echo "... chapter7/Sort.s"
+	@echo "... chapter8/Search.o"
+	@echo "... chapter8/Search.i"
+	@echo "... chapter8/Search.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
