@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/zhang/CLionProjects/DataStructure/chapter2/CircList.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.o"
-  "/Users/zhang/CLionProjects/DataStructure/chapter2/SeqList.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.o"
-  "/Users/zhang/CLionProjects/DataStructure/chapter2/SinList.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.o"
-  "/Users/zhang/CLionProjects/DataStructure/chapter3/LinkedStack.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.o"
-  "/Users/zhang/CLionProjects/DataStructure/chapter3/SeqQuene.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.o"
-  "/Users/zhang/CLionProjects/DataStructure/chapter3/SeqStack.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.o"
-  "/Users/zhang/CLionProjects/DataStructure/chapter7/Sort.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.o"
-  "/Users/zhang/CLionProjects/DataStructure/chapter8/Search.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter8/Search.cpp.o"
+  "/Users/zhang/CLionProjects/DataStructure/chapter2-List/CircList.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o"
+  "/Users/zhang/CLionProjects/DataStructure/chapter2-List/SeqList.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.o"
+  "/Users/zhang/CLionProjects/DataStructure/chapter2-List/SinList.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.o"
+  "/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/LinkedStack.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.o"
+  "/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqQueue.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o"
+  "/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqStack.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.o"
+  "/Users/zhang/CLionProjects/DataStructure/chapter7-Sort/Sort.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.o"
+  "/Users/zhang/CLionProjects/DataStructure/chapter8-Search/Search.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.o"
   "/Users/zhang/CLionProjects/DataStructure/main.cpp" "/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles/DataStructure.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

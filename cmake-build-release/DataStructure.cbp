@@ -80,55 +80,55 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2/CircList.cpp">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2-List/CircList.cpp">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2/CircList.h">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2-List/CircList.h">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2/SeqList.cpp">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2-List/SeqList.cpp">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2/SeqList.h">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2-List/SeqList.h">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2/SinList.cpp">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2-List/SinList.cpp">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2/SinList.h">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2-List/SinList.h">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3/LinkedStack.cpp">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/LinkedStack.cpp">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3/LinkedStack.h">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/LinkedStack.h">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3/SeqQuene.cpp">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqQueue.cpp">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3/SeqQueue.h">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqQueue.h">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3/SeqStack.cpp">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqStack.cpp">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3/SeqStatck.h">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqStatck.h">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter5/BInaryTree.h">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter5-Tree/BInaryTree.h">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter7/Sort.cpp">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter7-Sort/Sort.cpp">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter7/Sort.h">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter7-Sort/Sort.h">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter8/Search.cpp">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter8-Search/Search.cpp">
 			<Option target="DataStructure"/>
 		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter8/Search.h">
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter8-Search/Search.h">
 			<Option target="DataStructure"/>
 		</Unit>
 		<Unit filename="/Users/zhang/CLionProjects/DataStructure/main.cpp">

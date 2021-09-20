@@ -79,134 +79,134 @@ CMakeFiles/DataStructure.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/main.cpp -o CMakeFiles/DataStructure.dir/main.cpp.s
 
-CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.o: CMakeFiles/DataStructure.dir/flags.make
-CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.o: ../chapter3/SeqQuene.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter3/SeqQuene.cpp
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o: ../chapter3-StackQueue/SeqQueue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqQueue.cpp
 
-CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter3/SeqQuene.cpp > CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.i
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqQueue.cpp > CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.i
 
-CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter3/SeqQuene.cpp -o CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.s
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqQueue.cpp -o CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.s
 
-CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.o: CMakeFiles/DataStructure.dir/flags.make
-CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.o: ../chapter2/CircList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter2/CircList.cpp
+CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o: ../chapter2-List/CircList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter2-List/CircList.cpp
 
-CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter2/CircList.cpp > CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.i
+CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter2-List/CircList.cpp > CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.i
 
-CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter2/CircList.cpp -o CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.s
+CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter2-List/CircList.cpp -o CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.s
 
-CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.o: CMakeFiles/DataStructure.dir/flags.make
-CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.o: ../chapter2/SeqList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter2/SeqList.cpp
+CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.o: ../chapter2-List/SeqList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter2-List/SeqList.cpp
 
-CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter2/SeqList.cpp > CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.i
+CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter2-List/SeqList.cpp > CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.i
 
-CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter2/SeqList.cpp -o CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.s
+CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter2-List/SeqList.cpp -o CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.s
 
-CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.o: CMakeFiles/DataStructure.dir/flags.make
-CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.o: ../chapter2/SinList.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter2/SinList.cpp
+CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.o: ../chapter2-List/SinList.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter2-List/SinList.cpp
 
-CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter2/SinList.cpp > CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.i
+CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter2-List/SinList.cpp > CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.i
 
-CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter2/SinList.cpp -o CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.s
+CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter2-List/SinList.cpp -o CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.s
 
-CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.o: CMakeFiles/DataStructure.dir/flags.make
-CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.o: ../chapter3/LinkedStack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter3/LinkedStack.cpp
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.o: ../chapter3-StackQueue/LinkedStack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/LinkedStack.cpp
 
-CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter3/LinkedStack.cpp > CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.i
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/LinkedStack.cpp > CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.i
 
-CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter3/LinkedStack.cpp -o CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.s
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/LinkedStack.cpp -o CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.s
 
-CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.o: CMakeFiles/DataStructure.dir/flags.make
-CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.o: ../chapter3/SeqStack.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter3/SeqStack.cpp
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.o: ../chapter3-StackQueue/SeqStack.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqStack.cpp
 
-CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter3/SeqStack.cpp > CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.i
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqStack.cpp > CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.i
 
-CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter3/SeqStack.cpp -o CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.s
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqStack.cpp -o CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.s
 
-CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.o: CMakeFiles/DataStructure.dir/flags.make
-CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.o: ../chapter7/Sort.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter7/Sort.cpp
+CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.o: ../chapter7-Sort/Sort.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter7-Sort/Sort.cpp
 
-CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter7/Sort.cpp > CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.i
+CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter7-Sort/Sort.cpp > CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.i
 
-CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter7/Sort.cpp -o CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.s
+CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter7-Sort/Sort.cpp -o CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.s
 
-CMakeFiles/DataStructure.dir/chapter8/Search.cpp.o: CMakeFiles/DataStructure.dir/flags.make
-CMakeFiles/DataStructure.dir/chapter8/Search.cpp.o: ../chapter8/Search.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/DataStructure.dir/chapter8/Search.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter8/Search.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter8/Search.cpp
+CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.o: ../chapter8-Search/Search.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter8-Search/Search.cpp
 
-CMakeFiles/DataStructure.dir/chapter8/Search.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter8/Search.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter8/Search.cpp > CMakeFiles/DataStructure.dir/chapter8/Search.cpp.i
+CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter8-Search/Search.cpp > CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.i
 
-CMakeFiles/DataStructure.dir/chapter8/Search.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter8/Search.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter8/Search.cpp -o CMakeFiles/DataStructure.dir/chapter8/Search.cpp.s
+CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter8-Search/Search.cpp -o CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.s
 
 # Object files for target DataStructure
 DataStructure_OBJECTS = \
 "CMakeFiles/DataStructure.dir/main.cpp.o" \
-"CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.o" \
-"CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.o" \
-"CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.o" \
-"CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.o" \
-"CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.o" \
-"CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.o" \
-"CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.o" \
-"CMakeFiles/DataStructure.dir/chapter8/Search.cpp.o"
+"CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o" \
+"CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o" \
+"CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.o" \
+"CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.o" \
+"CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.o" \
+"CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.o" \
+"CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.o" \
+"CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.o"
 
 # External object files for target DataStructure
 DataStructure_EXTERNAL_OBJECTS =
 
 DataStructure: CMakeFiles/DataStructure.dir/main.cpp.o
-DataStructure: CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.o
-DataStructure: CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.o
-DataStructure: CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.o
-DataStructure: CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.o
-DataStructure: CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.o
-DataStructure: CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.o
-DataStructure: CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.o
-DataStructure: CMakeFiles/DataStructure.dir/chapter8/Search.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.o
 DataStructure: CMakeFiles/DataStructure.dir/build.make
 DataStructure: CMakeFiles/DataStructure.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable DataStructure"

@@ -21,7 +21,18 @@ void visit(BiTree pNode) {
     cout<<pNode->data<<" ";
 }
 
-//前序创建二叉树，这里输入的是二叉树的先序序列
+/*前序创建二叉树，这里输入的是二叉树的先序序列
+ *  BiTree tree;
+    cout<<"输入结点（#表示为空），构造二叉树："<<endl;
+    CreateBiTree(tree);
+    cout<<"中序遍历序列：";
+    InOrder(tree);
+ *  测试输入：
+ *      输入结点（#表示为空），构造二叉树：
+        AB##CD#E###
+ *  输出结果：
+ *      中序遍历序列：B A D E C
+*/
  void CreateBiTree(BiTree &T){
     char item;
     cin>>item;
@@ -47,17 +58,17 @@ void PreOrder(BiTree T){
 //中序遍历
 void InOrder(BiTree T){
     if(T!= nullptr){
-        PreOrder(T->leftChild);
+        InOrder(T->leftChild);
         visit(T);
-        PreOrder(T->rightTree);
+        InOrder(T->rightTree);
     }
 }
 
 //后序遍历
 void PostOrder(BiTree T){
     if(T!= nullptr){
-        PreOrder(T->leftChild);
-        PreOrder(T->rightTree);
+        PostOrder(T->leftChild);
+        PostOrder(T->rightTree);
         visit(T);
     }
 }

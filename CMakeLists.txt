@@ -3,4 +3,4 @@ project(DataStructure)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(DataStructure main.cpp chapter2/SeqList.h chapter2/SinList.h chapter2/CircList.h chapter3/SeqStatck.h chapter5/BInaryTree.h chapter3/LinkedStack.h chapter3/SeqQueue.h chapter3/SeqQuene.cpp chapter2/CircList.cpp chapter2/SeqList.cpp chapter2/SinList.cpp chapter3/LinkedStack.cpp chapter3/SeqStack.cpp chapter7/Sort.h chapter7/Sort.cpp chapter8/Search.h chapter8/Search.cpp)
+add_executable(DataStructure main.cpp chapter2-List/SeqList.h chapter2-List/SinList.h chapter2-List/CircList.h chapter3-StackQueue/SeqStatck.h chapter5-Tree/BInaryTree.h chapter3-StackQueue/LinkedStack.h chapter3-StackQueue/SeqQueue.h chapter3-StackQueue/SeqQueue.cpp chapter2-List/CircList.cpp chapter2-List/SeqList.cpp chapter2-List/SinList.cpp chapter3-StackQueue/LinkedStack.cpp chapter3-StackQueue/SeqStack.cpp chapter7-Sort/Sort.h chapter7-Sort/Sort.cpp chapter8-Search/Search.h chapter8-Search/Search.cpp)

@@ -129,197 +129,197 @@ DataStructure/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/build
 .PHONY : DataStructure/fast
 
-chapter2/CircList.o: chapter2/CircList.cpp.o
-.PHONY : chapter2/CircList.o
+chapter2-List/CircList.o: chapter2-List/CircList.cpp.o
+.PHONY : chapter2-List/CircList.o
 
 # target to build an object file
-chapter2/CircList.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.o
-.PHONY : chapter2/CircList.cpp.o
+chapter2-List/CircList.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o
+.PHONY : chapter2-List/CircList.cpp.o
 
-chapter2/CircList.i: chapter2/CircList.cpp.i
-.PHONY : chapter2/CircList.i
+chapter2-List/CircList.i: chapter2-List/CircList.cpp.i
+.PHONY : chapter2-List/CircList.i
 
 # target to preprocess a source file
-chapter2/CircList.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.i
-.PHONY : chapter2/CircList.cpp.i
+chapter2-List/CircList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.i
+.PHONY : chapter2-List/CircList.cpp.i
 
-chapter2/CircList.s: chapter2/CircList.cpp.s
-.PHONY : chapter2/CircList.s
+chapter2-List/CircList.s: chapter2-List/CircList.cpp.s
+.PHONY : chapter2-List/CircList.s
 
 # target to generate assembly for a file
-chapter2/CircList.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2/CircList.cpp.s
-.PHONY : chapter2/CircList.cpp.s
+chapter2-List/CircList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.s
+.PHONY : chapter2-List/CircList.cpp.s
 
-chapter2/SeqList.o: chapter2/SeqList.cpp.o
-.PHONY : chapter2/SeqList.o
+chapter2-List/SeqList.o: chapter2-List/SeqList.cpp.o
+.PHONY : chapter2-List/SeqList.o
 
 # target to build an object file
-chapter2/SeqList.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.o
-.PHONY : chapter2/SeqList.cpp.o
+chapter2-List/SeqList.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.o
+.PHONY : chapter2-List/SeqList.cpp.o
 
-chapter2/SeqList.i: chapter2/SeqList.cpp.i
-.PHONY : chapter2/SeqList.i
+chapter2-List/SeqList.i: chapter2-List/SeqList.cpp.i
+.PHONY : chapter2-List/SeqList.i
 
 # target to preprocess a source file
-chapter2/SeqList.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.i
-.PHONY : chapter2/SeqList.cpp.i
+chapter2-List/SeqList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.i
+.PHONY : chapter2-List/SeqList.cpp.i
 
-chapter2/SeqList.s: chapter2/SeqList.cpp.s
-.PHONY : chapter2/SeqList.s
+chapter2-List/SeqList.s: chapter2-List/SeqList.cpp.s
+.PHONY : chapter2-List/SeqList.s
 
 # target to generate assembly for a file
-chapter2/SeqList.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2/SeqList.cpp.s
-.PHONY : chapter2/SeqList.cpp.s
+chapter2-List/SeqList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.s
+.PHONY : chapter2-List/SeqList.cpp.s
 
-chapter2/SinList.o: chapter2/SinList.cpp.o
-.PHONY : chapter2/SinList.o
+chapter2-List/SinList.o: chapter2-List/SinList.cpp.o
+.PHONY : chapter2-List/SinList.o
 
 # target to build an object file
-chapter2/SinList.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.o
-.PHONY : chapter2/SinList.cpp.o
+chapter2-List/SinList.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.o
+.PHONY : chapter2-List/SinList.cpp.o
 
-chapter2/SinList.i: chapter2/SinList.cpp.i
-.PHONY : chapter2/SinList.i
+chapter2-List/SinList.i: chapter2-List/SinList.cpp.i
+.PHONY : chapter2-List/SinList.i
 
 # target to preprocess a source file
-chapter2/SinList.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.i
-.PHONY : chapter2/SinList.cpp.i
+chapter2-List/SinList.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.i
+.PHONY : chapter2-List/SinList.cpp.i
 
-chapter2/SinList.s: chapter2/SinList.cpp.s
-.PHONY : chapter2/SinList.s
+chapter2-List/SinList.s: chapter2-List/SinList.cpp.s
+.PHONY : chapter2-List/SinList.s
 
 # target to generate assembly for a file
-chapter2/SinList.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2/SinList.cpp.s
-.PHONY : chapter2/SinList.cpp.s
+chapter2-List/SinList.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.s
+.PHONY : chapter2-List/SinList.cpp.s
 
-chapter3/LinkedStack.o: chapter3/LinkedStack.cpp.o
-.PHONY : chapter3/LinkedStack.o
+chapter3-StackQueue/LinkedStack.o: chapter3-StackQueue/LinkedStack.cpp.o
+.PHONY : chapter3-StackQueue/LinkedStack.o
 
 # target to build an object file
-chapter3/LinkedStack.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.o
-.PHONY : chapter3/LinkedStack.cpp.o
+chapter3-StackQueue/LinkedStack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.o
+.PHONY : chapter3-StackQueue/LinkedStack.cpp.o
 
-chapter3/LinkedStack.i: chapter3/LinkedStack.cpp.i
-.PHONY : chapter3/LinkedStack.i
+chapter3-StackQueue/LinkedStack.i: chapter3-StackQueue/LinkedStack.cpp.i
+.PHONY : chapter3-StackQueue/LinkedStack.i
 
 # target to preprocess a source file
-chapter3/LinkedStack.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.i
-.PHONY : chapter3/LinkedStack.cpp.i
+chapter3-StackQueue/LinkedStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.i
+.PHONY : chapter3-StackQueue/LinkedStack.cpp.i
 
-chapter3/LinkedStack.s: chapter3/LinkedStack.cpp.s
-.PHONY : chapter3/LinkedStack.s
+chapter3-StackQueue/LinkedStack.s: chapter3-StackQueue/LinkedStack.cpp.s
+.PHONY : chapter3-StackQueue/LinkedStack.s
 
 # target to generate assembly for a file
-chapter3/LinkedStack.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3/LinkedStack.cpp.s
-.PHONY : chapter3/LinkedStack.cpp.s
+chapter3-StackQueue/LinkedStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.s
+.PHONY : chapter3-StackQueue/LinkedStack.cpp.s
 
-chapter3/SeqQuene.o: chapter3/SeqQuene.cpp.o
-.PHONY : chapter3/SeqQuene.o
+chapter3-StackQueue/SeqQueue.o: chapter3-StackQueue/SeqQueue.cpp.o
+.PHONY : chapter3-StackQueue/SeqQueue.o
 
 # target to build an object file
-chapter3/SeqQuene.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.o
-.PHONY : chapter3/SeqQuene.cpp.o
+chapter3-StackQueue/SeqQueue.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o
+.PHONY : chapter3-StackQueue/SeqQueue.cpp.o
 
-chapter3/SeqQuene.i: chapter3/SeqQuene.cpp.i
-.PHONY : chapter3/SeqQuene.i
+chapter3-StackQueue/SeqQueue.i: chapter3-StackQueue/SeqQueue.cpp.i
+.PHONY : chapter3-StackQueue/SeqQueue.i
 
 # target to preprocess a source file
-chapter3/SeqQuene.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.i
-.PHONY : chapter3/SeqQuene.cpp.i
+chapter3-StackQueue/SeqQueue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.i
+.PHONY : chapter3-StackQueue/SeqQueue.cpp.i
 
-chapter3/SeqQuene.s: chapter3/SeqQuene.cpp.s
-.PHONY : chapter3/SeqQuene.s
+chapter3-StackQueue/SeqQueue.s: chapter3-StackQueue/SeqQueue.cpp.s
+.PHONY : chapter3-StackQueue/SeqQueue.s
 
 # target to generate assembly for a file
-chapter3/SeqQuene.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3/SeqQuene.cpp.s
-.PHONY : chapter3/SeqQuene.cpp.s
+chapter3-StackQueue/SeqQueue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.s
+.PHONY : chapter3-StackQueue/SeqQueue.cpp.s
 
-chapter3/SeqStack.o: chapter3/SeqStack.cpp.o
-.PHONY : chapter3/SeqStack.o
+chapter3-StackQueue/SeqStack.o: chapter3-StackQueue/SeqStack.cpp.o
+.PHONY : chapter3-StackQueue/SeqStack.o
 
 # target to build an object file
-chapter3/SeqStack.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.o
-.PHONY : chapter3/SeqStack.cpp.o
+chapter3-StackQueue/SeqStack.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.o
+.PHONY : chapter3-StackQueue/SeqStack.cpp.o
 
-chapter3/SeqStack.i: chapter3/SeqStack.cpp.i
-.PHONY : chapter3/SeqStack.i
+chapter3-StackQueue/SeqStack.i: chapter3-StackQueue/SeqStack.cpp.i
+.PHONY : chapter3-StackQueue/SeqStack.i
 
 # target to preprocess a source file
-chapter3/SeqStack.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.i
-.PHONY : chapter3/SeqStack.cpp.i
+chapter3-StackQueue/SeqStack.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.i
+.PHONY : chapter3-StackQueue/SeqStack.cpp.i
 
-chapter3/SeqStack.s: chapter3/SeqStack.cpp.s
-.PHONY : chapter3/SeqStack.s
+chapter3-StackQueue/SeqStack.s: chapter3-StackQueue/SeqStack.cpp.s
+.PHONY : chapter3-StackQueue/SeqStack.s
 
 # target to generate assembly for a file
-chapter3/SeqStack.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3/SeqStack.cpp.s
-.PHONY : chapter3/SeqStack.cpp.s
+chapter3-StackQueue/SeqStack.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqStack.cpp.s
+.PHONY : chapter3-StackQueue/SeqStack.cpp.s
 
-chapter7/Sort.o: chapter7/Sort.cpp.o
-.PHONY : chapter7/Sort.o
+chapter7-Sort/Sort.o: chapter7-Sort/Sort.cpp.o
+.PHONY : chapter7-Sort/Sort.o
 
 # target to build an object file
-chapter7/Sort.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.o
-.PHONY : chapter7/Sort.cpp.o
+chapter7-Sort/Sort.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.o
+.PHONY : chapter7-Sort/Sort.cpp.o
 
-chapter7/Sort.i: chapter7/Sort.cpp.i
-.PHONY : chapter7/Sort.i
+chapter7-Sort/Sort.i: chapter7-Sort/Sort.cpp.i
+.PHONY : chapter7-Sort/Sort.i
 
 # target to preprocess a source file
-chapter7/Sort.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.i
-.PHONY : chapter7/Sort.cpp.i
+chapter7-Sort/Sort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.i
+.PHONY : chapter7-Sort/Sort.cpp.i
 
-chapter7/Sort.s: chapter7/Sort.cpp.s
-.PHONY : chapter7/Sort.s
+chapter7-Sort/Sort.s: chapter7-Sort/Sort.cpp.s
+.PHONY : chapter7-Sort/Sort.s
 
 # target to generate assembly for a file
-chapter7/Sort.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter7/Sort.cpp.s
-.PHONY : chapter7/Sort.cpp.s
+chapter7-Sort/Sort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter7-Sort/Sort.cpp.s
+.PHONY : chapter7-Sort/Sort.cpp.s
 
-chapter8/Search.o: chapter8/Search.cpp.o
-.PHONY : chapter8/Search.o
+chapter8-Search/Search.o: chapter8-Search/Search.cpp.o
+.PHONY : chapter8-Search/Search.o
 
 # target to build an object file
-chapter8/Search.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter8/Search.cpp.o
-.PHONY : chapter8/Search.cpp.o
+chapter8-Search/Search.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.o
+.PHONY : chapter8-Search/Search.cpp.o
 
-chapter8/Search.i: chapter8/Search.cpp.i
-.PHONY : chapter8/Search.i
+chapter8-Search/Search.i: chapter8-Search/Search.cpp.i
+.PHONY : chapter8-Search/Search.i
 
 # target to preprocess a source file
-chapter8/Search.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter8/Search.cpp.i
-.PHONY : chapter8/Search.cpp.i
+chapter8-Search/Search.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.i
+.PHONY : chapter8-Search/Search.cpp.i
 
-chapter8/Search.s: chapter8/Search.cpp.s
-.PHONY : chapter8/Search.s
+chapter8-Search/Search.s: chapter8-Search/Search.cpp.s
+.PHONY : chapter8-Search/Search.s
 
 # target to generate assembly for a file
-chapter8/Search.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter8/Search.cpp.s
-.PHONY : chapter8/Search.cpp.s
+chapter8-Search/Search.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.s
+.PHONY : chapter8-Search/Search.cpp.s
 
 main.o: main.cpp.o
 .PHONY : main.o
@@ -354,30 +354,30 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... DataStructure"
-	@echo "... chapter2/CircList.o"
-	@echo "... chapter2/CircList.i"
-	@echo "... chapter2/CircList.s"
-	@echo "... chapter2/SeqList.o"
-	@echo "... chapter2/SeqList.i"
-	@echo "... chapter2/SeqList.s"
-	@echo "... chapter2/SinList.o"
-	@echo "... chapter2/SinList.i"
-	@echo "... chapter2/SinList.s"
-	@echo "... chapter3/LinkedStack.o"
-	@echo "... chapter3/LinkedStack.i"
-	@echo "... chapter3/LinkedStack.s"
-	@echo "... chapter3/SeqQuene.o"
-	@echo "... chapter3/SeqQuene.i"
-	@echo "... chapter3/SeqQuene.s"
-	@echo "... chapter3/SeqStack.o"
-	@echo "... chapter3/SeqStack.i"
-	@echo "... chapter3/SeqStack.s"
-	@echo "... chapter7/Sort.o"
-	@echo "... chapter7/Sort.i"
-	@echo "... chapter7/Sort.s"
-	@echo "... chapter8/Search.o"
-	@echo "... chapter8/Search.i"
-	@echo "... chapter8/Search.s"
+	@echo "... chapter2-List/CircList.o"
+	@echo "... chapter2-List/CircList.i"
+	@echo "... chapter2-List/CircList.s"
+	@echo "... chapter2-List/SeqList.o"
+	@echo "... chapter2-List/SeqList.i"
+	@echo "... chapter2-List/SeqList.s"
+	@echo "... chapter2-List/SinList.o"
+	@echo "... chapter2-List/SinList.i"
+	@echo "... chapter2-List/SinList.s"
+	@echo "... chapter3-StackQueue/LinkedStack.o"
+	@echo "... chapter3-StackQueue/LinkedStack.i"
+	@echo "... chapter3-StackQueue/LinkedStack.s"
+	@echo "... chapter3-StackQueue/SeqQueue.o"
+	@echo "... chapter3-StackQueue/SeqQueue.i"
+	@echo "... chapter3-StackQueue/SeqQueue.s"
+	@echo "... chapter3-StackQueue/SeqStack.o"
+	@echo "... chapter3-StackQueue/SeqStack.i"
+	@echo "... chapter3-StackQueue/SeqStack.s"
+	@echo "... chapter7-Sort/Sort.o"
+	@echo "... chapter7-Sort/Sort.i"
+	@echo "... chapter7-Sort/Sort.s"
+	@echo "... chapter8-Search/Search.o"
+	@echo "... chapter8-Search/Search.i"
+	@echo "... chapter8-Search/Search.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
