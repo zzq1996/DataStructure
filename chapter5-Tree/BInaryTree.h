@@ -17,8 +17,8 @@ typedef struct BinTreeNode {
 
 
 //打印结点数据
-void visit(BiTree pNode) {
-    cout<<pNode->data<<" ";
+void visit(BiTree tree) {
+    cout<<tree->data<<" ";
 }
 
 /*前序创建二叉树，这里输入的是二叉树的先序序列
