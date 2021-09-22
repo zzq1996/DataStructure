@@ -9,6 +9,7 @@
 LinkedStack::LinkedStack() {
     top= nullptr;
 }
+
 //出栈
 bool LinkedStack::Pop(int &x) {
     LinkNode *del=top;//暂存栈顶元素
@@ -17,6 +18,7 @@ bool LinkedStack::Pop(int &x) {
     delete del;//删除结点
     return true;
 }
+
 //入栈
 bool LinkedStack::Push(int x) {
     LinkNode *newNode=new LinkNode;//为插入元素构造新结点
@@ -29,10 +31,12 @@ bool LinkedStack::Push(int x) {
     }
     return true;
 }
+
 //判栈空
 bool LinkedStack::IsEmpty() {
     return (top== nullptr);
 }
+
 //清空栈
 void LinkedStack::makeEmpty() {
     LinkNode *p;

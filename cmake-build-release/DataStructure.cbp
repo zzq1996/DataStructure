@@ -98,16 +98,16 @@
 		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter2-List/SinList.h">
 			<Option target="DataStructure"/>
 		</Unit>
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/CirQueue.cpp">
+			<Option target="DataStructure"/>
+		</Unit>
+		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/CirQueue.h">
+			<Option target="DataStructure"/>
+		</Unit>
 		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/LinkedStack.cpp">
 			<Option target="DataStructure"/>
 		</Unit>
 		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/LinkedStack.h">
-			<Option target="DataStructure"/>
-		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqQueue.cpp">
-			<Option target="DataStructure"/>
-		</Unit>
-		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqQueue.h">
 			<Option target="DataStructure"/>
 		</Unit>
 		<Unit filename="/Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqStack.cpp">

@@ -2,15 +2,15 @@
 // Created by zhangzhiqiang on 2020/8/22.
 //
 
-#ifndef DATASTRUCTURE_SEQQUEUE_H
-#define DATASTRUCTURE_SEQQUEUE_H
+#ifndef DATASTRUCTURE_CIRQUEUE_H
+#define DATASTRUCTURE_CIRQUEUE_H
 
 #include <cstdio>
 
 using namespace std;
 
 //循环队列，用数组存储，定义rear和front表示队尾元素的下一个位置和队头元素在数组中的位置
-class SeqQueue {
+class CirQueue {
 private:
     char *pQue;    //指向申请的空间
     int front;       // 队头
@@ -19,15 +19,15 @@ private:
 
 public:
     //构造函数
-    SeqQueue(int Size);
+    CirQueue(int Size);
     bool EnQueue(int x);//入队
     bool DeQueue(int &x);//出队
     bool IsEmpty();
     bool IsFull();
     int GetSize();
-    void PrintMember(SeqQueue seqQueue);
+    void PrintMember(CirQueue seqQueue);
 };
 
 
 
-#endif //DATASTRUCTURE_SEQQUEUE_H
+#endif //DATASTRUCTURE_CIRQUEUE_H

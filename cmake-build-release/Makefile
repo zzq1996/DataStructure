@@ -201,6 +201,30 @@ chapter2-List/SinList.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.s
 .PHONY : chapter2-List/SinList.cpp.s
 
+chapter3-StackQueue/CirQueue.o: chapter3-StackQueue/CirQueue.cpp.o
+.PHONY : chapter3-StackQueue/CirQueue.o
+
+# target to build an object file
+chapter3-StackQueue/CirQueue.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.o
+.PHONY : chapter3-StackQueue/CirQueue.cpp.o
+
+chapter3-StackQueue/CirQueue.i: chapter3-StackQueue/CirQueue.cpp.i
+.PHONY : chapter3-StackQueue/CirQueue.i
+
+# target to preprocess a source file
+chapter3-StackQueue/CirQueue.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.i
+.PHONY : chapter3-StackQueue/CirQueue.cpp.i
+
+chapter3-StackQueue/CirQueue.s: chapter3-StackQueue/CirQueue.cpp.s
+.PHONY : chapter3-StackQueue/CirQueue.s
+
+# target to generate assembly for a file
+chapter3-StackQueue/CirQueue.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.s
+.PHONY : chapter3-StackQueue/CirQueue.cpp.s
+
 chapter3-StackQueue/LinkedStack.o: chapter3-StackQueue/LinkedStack.cpp.o
 .PHONY : chapter3-StackQueue/LinkedStack.o
 
@@ -224,30 +248,6 @@ chapter3-StackQueue/LinkedStack.s: chapter3-StackQueue/LinkedStack.cpp.s
 chapter3-StackQueue/LinkedStack.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/LinkedStack.cpp.s
 .PHONY : chapter3-StackQueue/LinkedStack.cpp.s
-
-chapter3-StackQueue/SeqQueue.o: chapter3-StackQueue/SeqQueue.cpp.o
-.PHONY : chapter3-StackQueue/SeqQueue.o
-
-# target to build an object file
-chapter3-StackQueue/SeqQueue.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o
-.PHONY : chapter3-StackQueue/SeqQueue.cpp.o
-
-chapter3-StackQueue/SeqQueue.i: chapter3-StackQueue/SeqQueue.cpp.i
-.PHONY : chapter3-StackQueue/SeqQueue.i
-
-# target to preprocess a source file
-chapter3-StackQueue/SeqQueue.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.i
-.PHONY : chapter3-StackQueue/SeqQueue.cpp.i
-
-chapter3-StackQueue/SeqQueue.s: chapter3-StackQueue/SeqQueue.cpp.s
-.PHONY : chapter3-StackQueue/SeqQueue.s
-
-# target to generate assembly for a file
-chapter3-StackQueue/SeqQueue.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/DataStructure.dir/build.make CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.s
-.PHONY : chapter3-StackQueue/SeqQueue.cpp.s
 
 chapter3-StackQueue/SeqStack.o: chapter3-StackQueue/SeqStack.cpp.o
 .PHONY : chapter3-StackQueue/SeqStack.o
@@ -363,12 +363,12 @@ help:
 	@echo "... chapter2-List/SinList.o"
 	@echo "... chapter2-List/SinList.i"
 	@echo "... chapter2-List/SinList.s"
+	@echo "... chapter3-StackQueue/CirQueue.o"
+	@echo "... chapter3-StackQueue/CirQueue.i"
+	@echo "... chapter3-StackQueue/CirQueue.s"
 	@echo "... chapter3-StackQueue/LinkedStack.o"
 	@echo "... chapter3-StackQueue/LinkedStack.i"
 	@echo "... chapter3-StackQueue/LinkedStack.s"
-	@echo "... chapter3-StackQueue/SeqQueue.o"
-	@echo "... chapter3-StackQueue/SeqQueue.i"
-	@echo "... chapter3-StackQueue/SeqQueue.s"
 	@echo "... chapter3-StackQueue/SeqStack.o"
 	@echo "... chapter3-StackQueue/SeqStack.i"
 	@echo "... chapter3-StackQueue/SeqStack.s"

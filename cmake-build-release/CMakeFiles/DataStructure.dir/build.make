@@ -79,18 +79,18 @@ CMakeFiles/DataStructure.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/main.cpp -o CMakeFiles/DataStructure.dir/main.cpp.s
 
-CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o: CMakeFiles/DataStructure.dir/flags.make
-CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o: ../chapter3-StackQueue/SeqQueue.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqQueue.cpp
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.o: CMakeFiles/DataStructure.dir/flags.make
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.o: ../chapter3-StackQueue/CirQueue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/zhang/CLionProjects/DataStructure/cmake-build-release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.o -c /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/CirQueue.cpp
 
-CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqQueue.cpp > CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.i
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/CirQueue.cpp > CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.i
 
-CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/SeqQueue.cpp -o CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.s
+CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/zhang/CLionProjects/DataStructure/chapter3-StackQueue/CirQueue.cpp -o CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.s
 
 CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o: CMakeFiles/DataStructure.dir/flags.make
 CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o: ../chapter2-List/CircList.cpp
@@ -186,7 +186,7 @@ CMakeFiles/DataStructure.dir/chapter8-Search/Search.cpp.s: cmake_force
 # Object files for target DataStructure
 DataStructure_OBJECTS = \
 "CMakeFiles/DataStructure.dir/main.cpp.o" \
-"CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o" \
+"CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.o" \
 "CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o" \
 "CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.o" \
 "CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.o" \
@@ -199,7 +199,7 @@ DataStructure_OBJECTS = \
 DataStructure_EXTERNAL_OBJECTS =
 
 DataStructure: CMakeFiles/DataStructure.dir/main.cpp.o
-DataStructure: CMakeFiles/DataStructure.dir/chapter3-StackQueue/SeqQueue.cpp.o
+DataStructure: CMakeFiles/DataStructure.dir/chapter3-StackQueue/CirQueue.cpp.o
 DataStructure: CMakeFiles/DataStructure.dir/chapter2-List/CircList.cpp.o
 DataStructure: CMakeFiles/DataStructure.dir/chapter2-List/SeqList.cpp.o
 DataStructure: CMakeFiles/DataStructure.dir/chapter2-List/SinList.cpp.o
