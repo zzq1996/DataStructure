@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
 
-    ThreadTree tree;
+    cout<<"o"<<endl;
 
 
     return 0;
