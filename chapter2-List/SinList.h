@@ -1,6 +1,3 @@
-//
-// Created by zhangzhiqiang on 2020/7/5.
-//
 
 #ifndef DATASTRUCTURE_SINLIST_H
 #define DATASTRUCTURE_SINLIST_H

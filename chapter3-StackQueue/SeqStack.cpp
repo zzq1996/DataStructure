@@ -1,6 +1,4 @@
-//
-// Created by zhang zhiqiang on 2021/9/11.
-//
+
 
 #include "SeqStatck.h"
 
@@ -37,6 +35,7 @@ bool SeqStatck::Pop(int &x) {
     if(!IsEmpty()){//1、先判栈是否为空
         x=data[top];//2、将栈顶元素保存在x
         top=top-1;//3、栈顶指针减1
+        return true;
     }else{
         return false;
     }

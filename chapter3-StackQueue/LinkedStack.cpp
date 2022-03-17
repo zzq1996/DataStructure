@@ -1,6 +1,4 @@
-//
-// Created by zhang zhiqiang on 2021/9/11.
-//
+
 
 #include <iostream>
 #include "LinkedStack.h"

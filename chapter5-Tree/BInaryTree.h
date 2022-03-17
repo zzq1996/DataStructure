@@ -27,6 +27,7 @@ void visit(BiTree tree) {
     CreateBiTree(tree);
     cout<<"中序遍历序列：";
     InOrder(tree);
+
  *  测试输入：
  *      输入结点（#表示为空），构造二叉树：
         AB##CD#E###
@@ -36,17 +37,22 @@ void visit(BiTree tree) {
  void CreateBiTree(BiTree &T){
     char item;
     cin>>item;
+
     if(item=='#'){
         T= nullptr;
     }else{
-        T=new BinTreeNode ;
+        T=new BinTreeNode;
         T->data=item;
         CreateBiTree(T->leftChild);
         CreateBiTree(T->rightTree);
     }
 }
 
-//先序遍历
+/*
+ * @Description 先序遍历
+ *
+ * 这里的T是二叉树根结点的指针
+ */
 void PreOrder(BiTree T){
     if(T!= nullptr){
         visit(T);
@@ -54,6 +60,7 @@ void PreOrder(BiTree T){
         PreOrder(T->rightTree);
     }
 }
+
 
 //中序遍历
 void InOrder(BiTree T){
@@ -63,6 +70,7 @@ void InOrder(BiTree T){
         InOrder(T->rightTree);
     }
 }
+
 
 //后序遍历
 void PostOrder(BiTree T){

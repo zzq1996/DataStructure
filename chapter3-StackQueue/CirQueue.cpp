@@ -1,6 +1,4 @@
-//
-// Created by zhang zhiqiang on 2021/9/11.
-//
+
 
 #include "CirQueue.h"
 #include <cstdio>
@@ -10,8 +8,11 @@ using namespace std;
 
 //构造函数
 CirQueue::CirQueue(int size){
+
     pQue=new char[size];//申请一个数组构成循环链表
+
     front=0,rear=0;//初始化队头队尾都指向0
+
     maxSize=size;
 }
 
@@ -53,9 +54,10 @@ bool CirQueue::EnQueue(int x) {
     return true;
 }
 
-void CirQueue::PrintMember(CirQueue seqQueue) {
+void CirQueue::PrintMember() {
     cout<<"当前循环队列元素：";
-    for (int i = 0; i < seqQueue.GetSize(); ++i) {
-        cout<<pQue[i]<<" ";
+    while (rear!=front){
+        cout<<pQue[front];
+        front++;
     }
 }

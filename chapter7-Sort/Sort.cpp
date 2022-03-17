@@ -1,6 +1,3 @@
-//
-// Created by zhang zhiqiang on 2021/9/11.
-//
 
 #include <iostream>
 #include "Sort.h"
@@ -280,6 +277,12 @@ void Sort::QuickSort(int *A, int low, int high) {
 
 
 /* 简单选择排序（一定要进行n-1趟处理）
+ *
+ * 基本思想：
+ *      1、保存要插入的当前位置
+ *      2、寻找最小值元素所在的位置
+ *      3、比较两者位置是否相同
+ *
  *  输入： int A[8]={49,38,65,97,76,13,27,49};
  *        sort.SelectSort(A,8);
  *  输出：
@@ -294,7 +297,8 @@ void Sort::QuickSort(int *A, int low, int high) {
  * */
 void Sort::SelectSort(int *A, int n) {
     for (int i = 0; i < n - 1; ++i) {
-        int min=i, //记录最小元素的位置
+
+        int min=i, //记录最小元素的位置，初始化为数组的"第一位"元素
             temp=0;
 
         for (int j = i+1; j < n; ++j) { //在A[i]~A[n-1]中选择最小的元素
@@ -304,16 +308,17 @@ void Sort::SelectSort(int *A, int n) {
             }
         }
 
+        //若当前的"第一位"元素不是最小值，则交换
         if(min!=i){
             temp=A[i];
             A[i]=A[min];
             A[min]=temp;
         }
 
-        cout<<"\n第"<<i+1<<"趟：";
-        for (int i = 0; i < n; ++i) {
-            cout<<A[i]<<" ";
-        }
+//        cout<<"\n第"<<i+1<<"趟：";
+//        for (int i = 0; i < n; ++i) {
+//            cout<<A[i]<<" ";
+//        }
 
     }
 }

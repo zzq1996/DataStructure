@@ -1,6 +1,4 @@
-//
-// Created by zhangzhiqiang on 2020/5/16.
-//
+
 
 #ifndef DATASTRUCTURE_SEQLIST_H
 #define DATASTRUCTURE_SEQLIST_H

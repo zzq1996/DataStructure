@@ -1,6 +1,4 @@
-//
-// Created by zhang zhiqiang on 2021/9/11.
-//
+
 
 #include "SinList.h"
 
@@ -9,7 +7,7 @@
  * 新建一个空结点作为头结点
  */
 SinList::SinList() {
-    LinkNode *headNode=new LinkNode;//新建一个结点对象
+    LinkNode *headNode=new LinkNode;//新建一个结点结构体对象
 
     headNode->link=nullptr;//结点的next为空
 
@@ -20,9 +18,10 @@ SinList::SinList() {
 
 /*
  * @Description 插入新元素x
- * 每次插在头结点的后面
+ * 每次插在头结点的后面(头插法)
  */
 bool SinList::Insert(int &x) {
+
     LinkNode *newNode=new LinkNode;//为新插入元素构造结点
 
     newNode->data=x;//数据域为元素值

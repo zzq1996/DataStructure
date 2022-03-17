@@ -1,6 +1,4 @@
-//
-// Created by zhang zhiqiang on 2021/9/20.
-//
+
 
 #ifndef DATASTRUCTURE_SEARCH_H
 #define DATASTRUCTURE_SEARCH_H

@@ -1,6 +1,4 @@
-//
-// Created by zhang zhiqiang on 2021/9/11.
-//
+
 
 #ifndef DATASTRUCTURE_SORT_H
 #define DATASTRUCTURE_SORT_H

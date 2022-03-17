@@ -1,6 +1,4 @@
-//
-// Created by zhang zhiqiang on 2021/9/22.
-//
+
 
 #ifndef DATASTRUCTURE_GRAPH_H
 #define DATASTRUCTURE_GRAPH_H
@@ -150,22 +148,6 @@ void DFS(Graph G,int V){
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #endif //DATASTRUCTURE_GRAPH_H

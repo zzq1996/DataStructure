@@ -1,6 +1,4 @@
-//
-// Created by zhangzhiqiang on 2020/7/5.
-//
+
 
 #ifndef DATASTRUCTURE_SEQSTATCK_H
 #define DATASTRUCTURE_SEQSTATCK_H

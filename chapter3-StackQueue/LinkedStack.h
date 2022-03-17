@@ -1,6 +1,4 @@
-//
-// Created by zhangzhiqiang on 2020/8/22.
-//
+
 
 #ifndef DATASTRUCTURE_LINKEDSTACK_H
 #define DATASTRUCTURE_LINKEDSTACK_H
